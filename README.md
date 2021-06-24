@@ -14,23 +14,20 @@ The README.md is built using mustache, to automatically track your progress in L
 
 ## Preview of the Leetcode Statistics Tracker
 
-Problems Solved: **6**
+Problems Solved: **3**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 2/500 | 3/1008 | 1/399 |
+| 3/500 | 0/1008 | 0/399 |
 
 </br>
 
 
 |#| Title |Difficulty| 
 |:---:|:---|:---:|
-1 |[Demo Prob](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;demo-prob&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 1 |[Two Sum](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;two-sum&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
-5 |[Demo Prob II](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;demo-prob-ii&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
-42 |[Demo Prob V](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;demo-prob-v&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
-100 |[Demo Prob III](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;demo-prob-iii&#x2F;) |![Hard](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Hard-E91E62.svg)|
-123 |[Demo Prob IV](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;demo-prob-iv&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
+1 |[Two Sum](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;two-sum&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+7 |[Reverse Integer](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-integer&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 
 </br></br>
 
