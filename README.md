@@ -14,11 +14,11 @@ The README.md is built using mustache, to automatically track your progress in L
 
 ## Preview of the Leetcode Statistics Tracker
 
-Problems Solved: **3**
+Problems Solved: **7**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 3/500 | 0/1008 | 0/399 |
+| 7/500 | 0/1008 | 0/399 |
 
 </br>
 
@@ -28,6 +28,10 @@ Problems Solved: **3**
 1 |[Two Sum](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;two-sum&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 1 |[Two Sum](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;two-sum&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 7 |[Reverse Integer](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-integer&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+21 |[Merge Two Sorted Lists](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;merge-two-sorted-lists&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+35 |[Search Insert Position](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;search-insert-position&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+70 |[Climbing Stairs](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;climbing-stairs&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+83 |[Remove Duplicates from Sorted List](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;remove-duplicates-from-sorted-list&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 
 </br></br>
 
