@@ -1,18 +1,8 @@
 # Automatic Leetcode Progress Tracker
 
-The README.md is built using mustache, to automatically track your progress in Leetcode
+Credit to _SConsul_ for this handy tool! Installation instructions can be found in the README of the [original repo](https://github.com/SConsul/auto_leetcode_stats). 
 
-## Installation Instructions
-1. run `$ npm init`
-2. run `$ npm i mustache`
-3. run `$ npm i puppeteer`
-4. Enable workflows in your repository on GitHub (repo > Actions > Workflows)
-5. Format your README template by editting `main.mustache`
-6. In the `leetcode` folder, save your submissions as `<SNo>_<easy/med/hard>_<hyphen-separated-problem-name>.*`
-7. Push your changes (remeber to **Pull** first to update your local repository with the README auto-genenerated at the last Push)
-8. Run steps 6 and 7 as you solve more questions!
-
-## Preview of the Leetcode Statistics Tracker
+## Current scoreboard
 
 Problems Solved: **7**
 
