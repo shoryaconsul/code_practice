@@ -14,11 +14,11 @@ The README.md is built using mustache, to automatically track your progress in L
 
 ## Preview of the Leetcode Statistics Tracker
 
-Problems Solved: **15**
+Problems Solved: **17**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 15/501 | 0/1010 | 0/400 |
+| 17/501 | 0/1010 | 0/400 |
 
 </br>
 
@@ -37,6 +37,8 @@ Problems Solved: **15**
 94 |[Binary Tree Inorder Traversal](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;binary-tree-inorder-traversal&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 100 |[Same Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;same-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 108 |[Convert Sorted Array to Binary Search Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;convert-sorted-array-to-binary-search-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+110 |[Balanced Binary Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;balanced-binary-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+112 |[Path Sum](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;path-sum&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 118 |[Pascals Triangle](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;pascals-triangle&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 125 |[Valid Palindrome](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;valid-palindrome&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 172 |[Factorial Trailing Zeroes](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;factorial-trailing-zeroes&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
