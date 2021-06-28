@@ -14,11 +14,11 @@ The README.md is built using mustache, to automatically track your progress in L
 
 ## Preview of the Leetcode Statistics Tracker
 
-Problems Solved: **17**
+Problems Solved: **21**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 17/502 | 0/1012 | 0/401 |
+| 21/502 | 0/1012 | 0/401 |
 
 </br>
 
@@ -42,6 +42,10 @@ Problems Solved: **17**
 118 |[Pascals Triangle](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;pascals-triangle&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 125 |[Valid Palindrome](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;valid-palindrome&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 172 |[Factorial Trailing Zeroes](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;factorial-trailing-zeroes&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+225 |[Implement Stack Using Queues](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;implement-stack-using-queues&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+231 |[Power of Two](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;power-of-two&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+234 |[Palindrome Linked List](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;palindrome-linked-list&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+290 |[Word Pattern](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;word-pattern&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 
 </br></br>
 
