@@ -6,11 +6,11 @@ This project keeps track of the progress made on Leetcode questions based on the
 
 ## Scoreboard
 
-Problems Solved: **29**
+Problems Solved: **34**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 29/502 | 0/1014 | 0/401 |
+| 34/502 | 0/1014 | 0/401 |
 
 </br>
 
@@ -45,7 +45,12 @@ Problems Solved: **29**
 345 |[Reverse Vowels of a String](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-vowels-of-a-string&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 392 |[Reverse is Subsequence](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-is-subsequence&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 415 |[Add Strings](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;add-strings&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+504 |[Base 7](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;base-7&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+557 |[Reverse Words in a String III](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-words-in-a-string-iii&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 563 |[Binary Tree Tilt](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;binary-tree-tilt&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+637 |[Average of Levels in Binary Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;average-of-levels-in-binary-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+704 |[Binary Search](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;binary-search&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+724 |[Find Pivot Index](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;find-pivot-index&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 
 </br></br>
 
