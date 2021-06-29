@@ -1,24 +1,16 @@
 # Automatic Leetcode Progress Tracker
 
-The README.md is built using mustache, to automatically track your progress in Leetcode
+This project keeps track of the progress made on Leetcode questions based on the solutions stored in the _leetcode_ folder. This handy tool was designed by [SConsul](https://github.com/SConsul) and setup instructions for it can be found [here](https://github.com/SConsul/auto_leetcode_stats).
 
-## Installation Instructions
-1. run `$ npm init`
-2. run `$ npm i mustache`
-3. run `$ npm i puppeteer`
-4. Enable workflows in your repository on GitHub (repo > Actions > Workflows)
-5. Format your README template by editting `main.mustache`
-6. In the `leetcode` folder, save your submissions as `<SNo>_<easy/med/hard>_<hyphen-separated-problem-name>.*`
-7. Push your changes (remeber to **Pull** first to update your local repository with the README auto-genenerated at the last Push)
-8. Run steps 6 and 7 as you solve more questions!
+---
 
-## Preview of the Leetcode Statistics Tracker
+## Scoreboard
 
-Problems Solved: **21**
+Problems Solved: **29**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 21/502 | 0/1012 | 0/401 |
+| 29/502 | 0/1014 | 0/401 |
 
 </br>
 
@@ -45,7 +37,15 @@ Problems Solved: **21**
 225 |[Implement Stack Using Queues](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;implement-stack-using-queues&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 231 |[Power of Two](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;power-of-two&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 234 |[Palindrome Linked List](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;palindrome-linked-list&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+237 |[Delete Node in a Linked List](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;delete-node-in-a-linked-list&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+263 |[Ugly Number](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;ugly-number&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 290 |[Word Pattern](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;word-pattern&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+338 |[Counting Bits](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;counting-bits&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+344 |[Reverse String](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-string&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+345 |[Reverse Vowels of a String](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-vowels-of-a-string&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+392 |[Reverse is Subsequence](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-is-subsequence&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+415 |[Add Strings](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;add-strings&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+563 |[Binary Tree Tilt](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;binary-tree-tilt&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 
 </br></br>
 
