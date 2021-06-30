@@ -6,11 +6,11 @@ This project keeps track of the progress made on Leetcode questions based on the
 
 ## Scoreboard
 
-Problems Solved: **34**
+Problems Solved: **40**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 34/502 | 0/1013 | 0/402 |
+| 40/502 | 0/1013 | 0/402 |
 
 </br>
 
@@ -48,9 +48,15 @@ Problems Solved: **34**
 504 |[Base 7](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;base-7&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 557 |[Reverse Words in a String III](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-words-in-a-string-iii&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 563 |[Binary Tree Tilt](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;binary-tree-tilt&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+572 |[Subtree of Another Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;subtree-of-another-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 637 |[Average of Levels in Binary Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;average-of-levels-in-binary-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 704 |[Binary Search](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;binary-search&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 724 |[Find Pivot Index](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;find-pivot-index&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+747 |[Largest Number At Least Twice of Others](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;largest-number-at-least-twice-of-others&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+819 |[Most Common Word](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;most-common-word&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+852 |[Peak Index in a Mountain Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;peak-index-in-a-mountain-array&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+917 |[Reverse Only Letters](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-only-letters&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+938 |[Range Sum of Bst](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;range-sum-of-bst&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 
 </br></br>
 
