@@ -6,11 +6,11 @@ This project keeps track of the progress made on Leetcode questions based on the
 
 ## Scoreboard
 
-Problems Solved: **40**
+Problems Solved: **44**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 40/502 | 0/1012 | 0/403 |
+| 44/502 | 0/1012 | 0/403 |
 
 </br>
 
@@ -54,9 +54,13 @@ Problems Solved: **40**
 724 |[Find Pivot Index](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;find-pivot-index&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 747 |[Largest Number At Least Twice of Others](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;largest-number-at-least-twice-of-others&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 819 |[Most Common Word](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;most-common-word&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+830 |[Positions of Large Groups](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;positions-of-large-groups&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 852 |[Peak Index in a Mountain Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;peak-index-in-a-mountain-array&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+868 |[Binary Gap](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;binary-gap&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+897 |[Increasing Order Search Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;increasing-order-search-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 917 |[Reverse Only Letters](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-only-letters&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 938 |[Range Sum of Bst](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;range-sum-of-bst&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+993 |[Cousins in Binary Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;cousins-in-binary-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 
 </br></br>
 
