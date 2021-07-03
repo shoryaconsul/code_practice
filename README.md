@@ -6,11 +6,11 @@ This project keeps track of the progress made on Leetcode questions based on the
 
 ## Scoreboard
 
-Problems Solved: **49**
+Problems Solved: **53**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 45/502 | 4/1013 | 0/404 |
+| 45/502 | 8/1013 | 0/404 |
 
 </br>
 
@@ -26,8 +26,12 @@ Problems Solved: **49**
 33 |[Search in Rotated Sorted Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;search-in-rotated-sorted-array&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 35 |[Search Insert Position](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;search-insert-position&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 56 |[Merge Intervals](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;merge-intervals&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
+61 |[Rotate](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;rotate&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
+64 |[Minimum Path Sum](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;minimum-path-sum&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 69 |[Sqrtx](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;sqrtx&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 70 |[Climbing Stairs](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;climbing-stairs&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+74 |[Search a 2d Matrix](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;search-a-2d-matrix&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
+80 |[Duplicates from Sorted Array II](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;duplicates-from-sorted-array-ii&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 83 |[Remove Duplicates from Sorted List](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;remove-duplicates-from-sorted-list&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 88 |[Merge Sorted Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;merge-sorted-array&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 94 |[Binary Tree Inorder Traversal](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;binary-tree-inorder-traversal&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
