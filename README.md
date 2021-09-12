@@ -6,11 +6,11 @@ This project keeps track of the progress made on Leetcode questions based on the
 
 ## Scoreboard
 
-Problems Solved: **53**
+Problems Solved: **55**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 45/502 | 8/1013 | 0/404 |
+| 45/516 | 10/1059 | 0/424 |
 
 </br>
 
@@ -34,8 +34,10 @@ Problems Solved: **53**
 80 |[Duplicates from Sorted Array II](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;duplicates-from-sorted-array-ii&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 83 |[Remove Duplicates from Sorted List](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;remove-duplicates-from-sorted-list&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 88 |[Merge Sorted Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;merge-sorted-array&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+91 |[Decode Ways](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;decode-ways&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 94 |[Binary Tree Inorder Traversal](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;binary-tree-inorder-traversal&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 100 |[Same Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;same-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+105 |[Construct Binary Tree from Preorder and Inorder Traversal](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;construct-binary-tree-from-preorder-and-inorder-traversal&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 108 |[Convert Sorted Array to Binary Search Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;convert-sorted-array-to-binary-search-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 110 |[Balanced Binary Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;balanced-binary-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 112 |[Path Sum](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;path-sum&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
