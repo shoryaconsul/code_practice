@@ -6,11 +6,11 @@ This project keeps track of the progress made on Leetcode questions based on the
 
 ## Scoreboard
 
-Problems Solved: **55**
+Problems Solved: **65**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 45/516 | 10/1059 | 0/424 |
+| 47/517 | 18/1061 | 0/425 |
 
 </br>
 
@@ -20,8 +20,10 @@ Problems Solved: **55**
 1 |[Two Sum](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;two-sum&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 1 |[Two Sum](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;two-sum&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 7 |[Reverse Integer](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-integer&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+16 |[3sum Closest](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;3sum-closest&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 19 |[Remove Nth Node from End of List](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;remove-nth-node-from-end-of-list&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 21 |[Merge Two Sorted Lists](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;merge-two-sorted-lists&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+24 |[Swap Nodes in Pairs](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;swap-nodes-in-pairs&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 31 |[Next Permutation](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;next-permutation&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 33 |[Search in Rotated Sorted Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;search-in-rotated-sorted-array&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 35 |[Search Insert Position](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;search-insert-position&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
@@ -36,13 +38,19 @@ Problems Solved: **55**
 88 |[Merge Sorted Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;merge-sorted-array&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 91 |[Decode Ways](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;decode-ways&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 94 |[Binary Tree Inorder Traversal](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;binary-tree-inorder-traversal&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+96 |[Unique Binary Search Trees](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;unique-binary-search-trees&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 100 |[Same Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;same-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 105 |[Construct Binary Tree from Preorder and Inorder Traversal](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;construct-binary-tree-from-preorder-and-inorder-traversal&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 108 |[Convert Sorted Array to Binary Search Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;convert-sorted-array-to-binary-search-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 110 |[Balanced Binary Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;balanced-binary-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 112 |[Path Sum](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;path-sum&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+114 |[Flatten Binary Tree to Linked List](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;flatten-binary-tree-to-linked-list&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
+116 |[Populating Next Right Pointers in Each Node](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;populating-next-right-pointers-in-each-node&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 118 |[Pascals Triangle](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;pascals-triangle&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 125 |[Valid Palindrome](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;valid-palindrome&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+128 |[Longest Consecutive Sequence](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;longest-consecutive-sequence&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
+142 |[Linked List Cycle II](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;linked-list-cycle-ii&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
+162 |[Find Peak Element](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;find-peak-element&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 172 |[Factorial Trailing Zeroes](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;factorial-trailing-zeroes&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 225 |[Implement Stack Using Queues](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;implement-stack-using-queues&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 231 |[Power of Two](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;power-of-two&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
@@ -59,6 +67,7 @@ Problems Solved: **55**
 557 |[Reverse Words in a String III](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-words-in-a-string-iii&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 563 |[Binary Tree Tilt](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;binary-tree-tilt&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 572 |[Subtree of Another Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;subtree-of-another-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+599 |[Minimum Index Sum of Two Lists](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;minimum-index-sum-of-two-lists&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 637 |[Average of Levels in Binary Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;average-of-levels-in-binary-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 704 |[Binary Search](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;binary-search&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 724 |[Find Pivot Index](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;find-pivot-index&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
@@ -70,6 +79,7 @@ Problems Solved: **55**
 897 |[Increasing Order Search Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;increasing-order-search-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 917 |[Reverse Only Letters](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-only-letters&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 938 |[Range Sum of Bst](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;range-sum-of-bst&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+961 |[N Repeated Element in Size 2n Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;n-repeated-element-in-size-2n-array&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 993 |[Cousins in Binary Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;cousins-in-binary-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 1122 |[Relative Sort Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;relative-sort-array&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 
