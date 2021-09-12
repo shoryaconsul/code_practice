@@ -6,11 +6,11 @@ This project keeps track of the progress made on Leetcode questions based on the
 
 ## Scoreboard
 
-Problems Solved: **65**
+Problems Solved: **66**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 47/517 | 18/1061 | 0/425 |
+| 47/517 | 19/1061 | 0/425 |
 
 </br>
 
@@ -35,6 +35,7 @@ Problems Solved: **65**
 74 |[Search a 2d Matrix](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;search-a-2d-matrix&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 80 |[Duplicates from Sorted Array II](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;duplicates-from-sorted-array-ii&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 83 |[Remove Duplicates from Sorted List](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;remove-duplicates-from-sorted-list&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+86 |[Partition List](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;partition-list&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 88 |[Merge Sorted Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;merge-sorted-array&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 91 |[Decode Ways](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;decode-ways&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 94 |[Binary Tree Inorder Traversal](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;binary-tree-inorder-traversal&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
