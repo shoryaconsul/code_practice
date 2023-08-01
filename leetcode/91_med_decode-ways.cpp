@@ -1,24 +1,35 @@
 class Solution {
 public:
     int numDecodings(string s) {
-        vector<int> ways (s.size() + 1);
-        ways[s.size()] = 1;
-        if(s[s.size()-1] == '0') ways[s.size()-1] = 0;
-        else ways[s.size()-1] = 1;
-        
-        int digit, digit_next;
+        int n = s.length();
+        int pen_ways = 0, prev_ways = 0;
+        int curr_ways;
 
-        for(int i=s.size()-2; i>=0; i--){
-            digit = (int) s[i] - '0';
-            digit_next = (int) s[i+1] - '0';
-            if(digit > 2) ways[i] = ways[i+1];
-            else if(digit == 2 && digit_next > 6) ways[i] = ways[i+1];
-            else if(digit == 0) ways[i] = 0;  // 0 cannot be read alone
-            else{  // s[i], s[i+1] can be read two ways
-                ways[i] = ways[i+1] + ways[i+2];
-            }
-            // cout<<digit << " "<<digit_next << " "<< i<<" "<<ways[i]<<endl;
+        if(s[0] == '0'){
+            return 0;
         }
-        return ways[0];
+        else{
+            curr_ways = 1;
+        }
+
+        if(n == 1) return curr_ways;
+        else {
+            prev_ways = curr_ways;
+            pen_ways = 1;
+        }
+
+        for(int i=1; i<n; i++){
+            // cout << "Conds: " << i << endl;
+            // cout << (s[i-1] == '1') << " " << (s[i-1] == '2')*(s[i] <= '6') << endl;
+            curr_ways = (prev_ways*(s[i] > '0')
+                    + pen_ways*(s[i-1] == '1')
+                    + pen_ways*(s[i-1] == '2')*(s[i] <= '6')
+            );
+            cout << i << " " << curr_ways << endl;
+            pen_ways = prev_ways;
+            prev_ways = curr_ways;
+        }
+        
+        return curr_ways;
     }
 };
