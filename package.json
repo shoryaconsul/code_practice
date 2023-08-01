@@ -18,6 +18,7 @@
   "homepage": "https://github.com/SConsul/auto_leetcode_stats#readme",
   "dependencies": {
     "mustache": "^4.2.0",
-    "puppeteer": "^10.0.0"
-  }
+    "puppeteer": "^10.4.0"
+  },
+  "devDependencies": {}
 }
